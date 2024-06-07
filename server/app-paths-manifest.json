@@ -1,0 +1,14 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/(auth)/sign-in/[[...sign-in]]/page": "app/(auth)/sign-in/[[...sign-in]]/page.js",
+  "/(auth)/sign-up/[[...sign-up]]/page": "app/(auth)/sign-up/[[...sign-up]]/page.js",
+  "/api/create-intent/route": "app/api/create-intent/route.js",
+  "/api/send-email/route": "app/api/send-email/route.js",
+  "/checkout/page": "app/checkout/page.js",
+  "/courses/page": "app/courses/page.js",
+  "/page": "app/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/payment-Confirm/page": "app/payment-Confirm/page.js",
+  "/product-details/[productId]/page": "app/product-details/[productId]/page.js",
+  "/cart/page": "app/cart/page.js"
+}
